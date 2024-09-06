@@ -1,0 +1,10 @@
+U:\labs\1labMath\1labMath\bin\Debug\1labMath.exe.config
+U:\labs\1labMath\1labMath\bin\Debug\1labMath.exe
+U:\labs\1labMath\1labMath\bin\Debug\1labMath.pdb
+U:\labs\1labMath\1labMath\obj\Debug\1labMath.csproj.AssemblyReference.cache
+U:\labs\1labMath\1labMath\obj\Debug\_1labMath.Form1.resources
+U:\labs\1labMath\1labMath\obj\Debug\_1labMath.Properties.Resources.resources
+U:\labs\1labMath\1labMath\obj\Debug\1labMath.csproj.GenerateResource.cache
+U:\labs\1labMath\1labMath\obj\Debug\1labMath.csproj.CoreCompileInputs.cache
+U:\labs\1labMath\1labMath\obj\Debug\1labMath.exe
+U:\labs\1labMath\1labMath\obj\Debug\1labMath.pdb
